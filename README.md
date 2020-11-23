@@ -2,9 +2,6 @@
 
 Streamlit App that performs object detection from a camera powered by Detectron2.
 
-![app_preview](https://user-images.githubusercontent.com/17023476/98106894-086ba000-1e9a-11eb-8479-a3679e36d64a.png)
-
-
 ## Dependencies
 
 Running the application can be done following the instructions above:
